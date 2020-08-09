@@ -9,6 +9,6 @@
     "mongodb": "2.1.7",
     "mongoose": "^5.9.27",
     "node-cmd": "^3.0.0",
-    "node-ssh": "^11.0.0"
+    "node-ssh": "^10.0.2"
   }
 }
